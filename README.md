@@ -34,13 +34,10 @@ npm run backend
 
 # Final Instructions
 
-### To get the work started you first need to fork this project into your GitHub account. Then, you will develop the challenge at your work station and within 5 running days (or when you finish the challenge) you may send the link of the project to the Recruitment Analyst that spoke previously to you. 
-
-### Please, keep good and clean commits to your branch. Your interaction with GitHub will be evaluated as well. 
-
-### Keep the code best practices.
-
-### As you can see, this README is in english. Therefore, you code must be in english as well.
+- To get the work started you first need to fork this project into your GitHub account. Then, you will develop the challenge at your work station and within 5 running days (or when you finish the challenge) you may send the link of the project to the Recruitment Analyst that spoke previously to you. 
+- Please, keep good and clean commits to your branch. Your interaction with GitHub will be evaluated as well. 
+- Keep the code best practices.
+- As you can see, this README is in english. Therefore, you code must be in english as well.
 
 ### The main objective of this Challenge if to evaluate creativity. Be creative at every part of your code/solution!
 
