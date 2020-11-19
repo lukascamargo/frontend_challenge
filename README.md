@@ -42,13 +42,13 @@ npm run backend
 
 # What you should do
 
-The main objective of this Challenge is to evaluate your creativity to resolve UX problems. In this repo you have a db.json containing a lot of user information that should be displayed at a screen. The first solution everyone thinks about is to create a table containing all the information, however the table is the solution that you should avoid. 
+The main objective of this Challenge is to evaluate your creativity to resolve UX problems. In this repo you have a db.json containing a lot of user information that should be displayed at a screen. The first solution everyone thinks about is to create a table containing all the information, however the table is the solution that you should **avoid** *(that doesnt mean that you can not use)*. 
 
 You should create a front-end containing the following functionalities:
-    - Visualization of all the users,
-    - Functionality to edit any user,
-    - Functionality to delete any user,
-    - Functionality to create new users.
+- Visualization of all the users,
+- Functionality to edit any user,
+- Functionality to delete any user,
+- Functionality to create new users.
 
 Basically a CRUD.
 
